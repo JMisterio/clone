@@ -26,7 +26,7 @@ A “rule declaration” is the name given to a selector (or a group of selector
 
 ```css
 .listing {
-  font-size: 18px;
+  font-size: 1.1rem;
   line-height: 1.2;
 }
 ```
